@@ -21,6 +21,16 @@ Adicionalmente, el dispositivo crea un **Access Point Wi-Fi con Portal Cautivo**
 
 ---
 
+## 📸 Galería del Proyecto y Montaje
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Scissors2099/recicle-bin-iot/main/1.jpeg" width="30%" alt="Vista 1 del proyecto" />
+  <img src="https://raw.githubusercontent.com/Scissors2099/recicle-bin-iot/main/2.jpeg" width="30%" alt="Vista 2 del proyecto" />
+  <img src="https://raw.githubusercontent.com/Scissors2099/recicle-bin-iot/main/3.jpeg" width="30%" alt="Vista 3 del proyecto" />
+</p>
+
+---
+
 ## ⚙️ Características Principales
 
 * **Automatización sin contacto:** Detección de proximidad mediante sensor infrarrojo acoplado al pin digital D5.
@@ -59,21 +69,11 @@ El firmware levanta un punto de acceso (*Access Point*) con los siguientes pará
 * **Contraseña:** `123456`
 * **IP del Gateway:** `192.168.4.1`
 
-### 3. Código Fuente del Firmware
-El código completo que gestiona tanto la lógica del microcontrolador como el servidor web embebido se encuentra en el archivo principal del repositorio (`.ino`). 
-
 ---
-
-## 📊 Vista Previa de la Interfaz Web
-
-El dashboard integrado ofrece una experiencia visual moderna con indicadores de estado dinámicos:
-* **Estado del Sistema:** Muestra de forma gráfica si el tacho se encuentra en reposo (`CERRADO`) o ejecutando una apertura (`ABIERTO`) con cuenta regresiva en vivo.
-* **Paneles de Control:** Ajustes deslizantes y gatillos manuales para depuración rápida directamente desde el navegador móvil.
 
 # ☕ Apoya el Desarrollo del Proyecto
 Si este firmware unificado te sirvió para tus auditorías o te ahorró horas en el banco de pruebas, ¡puedes invitarme un café de forma anónima para bancar los insumos del taller!
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/scissor)
-
 
 ---
 
