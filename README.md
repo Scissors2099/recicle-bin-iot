@@ -70,6 +70,11 @@ El dashboard integrado ofrece una experiencia visual moderna con indicadores de 
 * **Estado del Sistema:** Muestra de forma gráfica si el tacho se encuentra en reposo (`CERRADO`) o ejecutando una apertura (`ABIERTO`) con cuenta regresiva en vivo.
 * **Paneles de Control:** Ajustes deslizantes y gatillos manuales para depuración rápida directamente desde el navegador móvil.
 
+# ☕ Apoya el Desarrollo del Proyecto
+Si este firmware unificado te sirvió para tus auditorías o te ahorró horas en el banco de pruebas, ¡puedes invitarme un café de forma anónima para bancar los insumos del taller!
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/scissor)
+
+
 ---
 
 ## 💡 Autor
